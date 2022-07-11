@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Welcome to Hux Blog"
+title:      "Welcome to BKFA Team Blog"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2015-01-29 12:00:00
 author:     "Hux"
